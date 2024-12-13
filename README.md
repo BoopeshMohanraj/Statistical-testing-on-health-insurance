@@ -67,26 +67,27 @@ Understanding health insurance disparities and trends is critical for improving 
 ## Visualizations and Insights
 
 ### State-wise Coverage
-**ADD IMAGE**: Include maps showing average enrollment in public and private insurance across states.
+![image](https://github.com/user-attachments/assets/b13636d5-0f88-4ccd-8488-6377cc9498b8)
+![image](https://github.com/user-attachments/assets/811b7271-50f3-4c3a-9c58-26ddc0b25e36)
 
 - **Insight:** North Dakota leads in private insurance enrollment, while New Mexico has the highest public insurance coverage.
 
 ### Uninsured Analysis
-**ADD IMAGE**: Boxplots for uninsured individuals across regions (West, Midwest, South, Northeast).
+![image](https://github.com/user-attachments/assets/d291fee2-823a-43c0-a5b9-7888405e498d)
+![image](https://github.com/user-attachments/assets/754960cc-250d-470b-b458-98fada21b93d)
 
 - **Insight:** Alaska (West) and Indiana (Midwest) had the highest uninsured rates.
 
 ### Gender-based Trends
-**ADD IMAGE**: Line graphs for male and female enrollment in public vs. private insurance.
+**ADD IMAGE**: Line graphs for male and female enrollment trends in public vs. private insurance.
 
 - **Insight:** Public health insurance enrollment increased slightly post-2020, while private insurance saw a decline.
 
 ### Correlation Analysis
-**ADD IMAGE**: Correlation plots for income-to-poverty ratio vs. enrollment in public and private insurance.
+**ADD IMAGE**: Heatmap showing correlations between income-to-poverty ratio and public/private insurance enrollment.
+**ADD IMAGE**: Scatter plot for income-to-poverty ratio vs. public/private enrollment.
 
-- **Insight:** Below 100% poverty ratio has:
-  - **High positive correlation (r=0.846)** with public insurance.
-  - **Weak positive correlation (r=0.108)** with private insurance.
+- **Insight:** Income-to-poverty ratio below 100% is highly correlated with public insurance enrollment.
 
 ### Predictive Analytics
 **ADD IMAGE**: Trendline forecasting enrollment in public and private health insurance.
